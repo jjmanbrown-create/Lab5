@@ -1,0 +1,40 @@
+CISC 230 (Prof. Akram)
+Lab Number _____5________
+Student Name: ___Jalen Brown______________
+Honor Code and Reflection Statement:
+By placing my initials below, I affirm that I have completed all parts of this assignment strictly
+adhering to the academic integrity guidelines outlined in the course syllabus and lab policy.
+Specifically, I confirm that:
+1. I did not receive unauthorized assistance from anyone other than the course instructor
+(Prof. Akram).
+2. I did not assist anyone else on this assignment.
+3. I did not seek or use help from any AI tools, online sources, or other platforms.
+Time spent on the assignment: ______8 hrs________
+My impressions of the assignment:
+• Difficulty (1-5): ______5________
+• Enjoyment (1-5): ______2________
+• Usefulness (1-5): ______4________
+Further comments and feedback: ______none________
+Your initials: ___JB_____
+
+Task 1: Reflection questions
+1. An image object is a variable that creates an image reference. An imageView object displays the image variable.
+2. Because this saves memory in the code.
+3. The setOnAction is a method from the ActionEvent class that sets the value of the button.
+4. It tells java that this method is using a parameter which in turn effects the code when called back into the main.
+5. It keeps the code more organized and allows for different buttons with different features.
+6. It sets the view to now contain the new image object. This is why we use one imgView.
+
+Task2: Reflection questions
+1. It needs to check eligibility to make sure applicant meets the requirements. If not
+then then should not be considered for selection.
+2. && represents and while || represents or. Both are needed for different conditions.
+Specifically && is needed when the applicant must meet all requirements.
+3. Nested if allows for the program to check the requirements in order.
+4. Because when the GPA's are both the same then then program needs to scale
+he meets the next best requirements.
+5. It compares applicant names in alphabetical order.
+6. It would compare them incorrectly because == compares whether they are the
+same string or not.
+7. Because having each method have it's own responsibility allows for
+organization in the code as well as better testing.
